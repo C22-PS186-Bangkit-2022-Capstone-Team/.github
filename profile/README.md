@@ -1,7 +1,7 @@
 # Dinara
 
 <div align="center">
-    <img src="../assets/cover.png">
+    <img src="assets/cover.png">
 </div>
 
 <p align="center">"<i>Not all those who wander are lost</i>"</p>
@@ -17,7 +17,7 @@ Either if you are a native citizen or a tourist Dinara will help you explore and
 ## How does it work?
 Every data you find such as landmark images, name, location, and others is taken from another application known as API built from NodeJS and MySQL. Dinara can also send uploaded image or image taken with your camera to a Machine Learning apps built with TensorFlow and Flask, than the app will then try to predict your uploaded image and sends back an information containing the prediction result, Both the Machine Learning apps and data retrieving API than deployed on Google Cloud Platform. This means the app can be expanded into web apps and others into the future without building it from scratch. 
 
-![dinara service architecture](../assets/service_architecture.png)
+![dinara service architecture](assets/service_architecture.png)
 
 ## Bangkit 2022 C22-PS186 Team Members
 
